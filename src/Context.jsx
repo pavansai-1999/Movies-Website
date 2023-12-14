@@ -17,6 +17,7 @@ const AppContext=createContext()
 
    
     const getMovies=async(url)=>
+    //setisLoading(true)
 {
     try{
 
